@@ -5,3 +5,5 @@ It consists of a profile page (assuming it's made for and by a professional fron
 It's linked to some other exercises, saved as "projects portfolio".
 
 Finally, it is also an exercise/practice of GitHub itself.
+
+Right, n
